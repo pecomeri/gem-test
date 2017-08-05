@@ -1,13 +1,13 @@
-# gem$B$N%W%l%<%sMQ$G$9(B
+# gemのプレゼン用です
 
-gem$B$N%W%l%<%sMQ$N%j%]%8%H%j$G$9!#(B
+gemのプレゼン用のリポジトリです。
 
-* git clone$B$7$F$/$@$5$$!#(B
+* git cloneしてください。
 
-* $B<+J,$N%V%i%s%A$r@Z$k(B(gemplez-takashina  $B$J$I(B)
+* 自分のブランチを切る(gemplez-takashina  など)
 
-* $B%V%i%s%A>e$G%W%l%<%sMQ$N(Bgem$B$rF3F~$7$FF0$+$;$k>uBV$K$9$k(B
+* ブランチ上でプレゼン用のgemを導入して動かせる状態にする
 
-* github$B$X(Bpush
+* githubへpush
 
-* master$B$X%W%k%j%/$N:n@.(B
+* masterへプルリクの作成
