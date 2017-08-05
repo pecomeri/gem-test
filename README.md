@@ -1,24 +1,13 @@
-# README
+# gemのプレゼン用です
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+gemのプレゼン用のリポジトリです。
 
-Things you may want to cover:
+* git cloneしてください。
 
-* Ruby version
+* 自分のブランチを切る(gemplez-takashina  など)
 
-* System dependencies
+* ブランチ上でプレゼン用のgemを導入して動かせる状態にする
 
-* Configuration
+* githubへpush
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* masterへプルリクの作成
